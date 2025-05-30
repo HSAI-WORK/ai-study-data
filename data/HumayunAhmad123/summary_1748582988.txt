@@ -1,0 +1,35 @@
+### Summary of Food Preservation Methods
+
+#### **Modified Atmosphere Packaging (MAP)**
+- **Purpose**: Preserve food by altering the storage environment to extend shelf life and maintain freshness.
+- **Key Methods**:
+  1. **Controlled Atmosphere Packaging (CAP)**: Continuous monitoring and adjustment of gas levels in storage; expensive, used for long-term storage of fruits and vegetables.
+  2. **Modified Atmosphere Packaging (MAP)**: Food is sealed in gas-barrier packaging, air is removed, and the package is flushed with specific gases (e.g., CO₂, N₂, O₂).
+  3. **Vacuum Packaging**: Air is removed from the package before sealing.
+- **Objectives**:
+  - Control or reduce the growth of undesirable microorganisms.
+  - Retard enzymatic and respiratory activities in fresh foods.
+  - Extend shelf life by inhibiting aerobic bacteria.
+- **Mechanisms**:
+  - High CO₂ concentrations (20-100%) slow microbial growth by altering cell permeability, reducing intracellular pH, and interfering with enzymatic pathways.
+
+#### **Irradiation**
+- **Purpose**: Use ionizing radiation to kill microorganisms, insects, and larvae, and prevent sprouting in foods.
+- **Types of Radiation**:
+  - **β-rays**: Low penetration power, ineffective for food preservation.
+  - **X-rays**: Good penetration but inefficient for food application.
+  - **γ-rays**: High penetration power, preferred for food irradiation.
+- **Common Sources**: Cobalt-60 (⁶⁰Co) and cesium-137 (¹³⁷Cs).
+- **Key Points**:
+  - Irradiated foods do not become radioactive.
+  - Destroys microorganisms by ionizing atoms and molecules, forming ion pairs that inhibit microbial growth.
+  - Prevents sprouting (e.g., in potatoes and onions) and kills insects and larvae.
+  - Does not destroy toxins or enzymes; differs from heat treatment.
+  - **Safety**: Extensive studies confirm irradiated foods are safe, with radiolytic products present in very low concentrations (~3 ppm).
+- **Limitations**:
+  - Can cause lipid oxidation and protein denaturation at higher doses.
+  - Consumer resistance due to misconceptions about radioactivity.
+
+#### **General Notes**:
+- **Combination of Methods**: Effective food preservation often requires a combination of techniques (e.g., MAP and irradiation).
+- **Consumer Preferences**: Growing demand for minimally processed, preservative-free foods drives the adoption of these methods.
