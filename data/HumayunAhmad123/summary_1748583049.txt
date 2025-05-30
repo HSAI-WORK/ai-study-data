@@ -1,0 +1,53 @@
+### Summary of Food Preservation Methods
+
+#### **Modified Atmosphere Packaging (MAP)**
+- **Purpose**: Preserve food by altering the storage environment to maintain freshness and reduce processing.
+- **Consumer Demand**: Driven by the preference for fresh, minimally processed foods without preservatives.
+- **Key Methods**:
+  1. **Controlled Atmosphere Packaging (CAP)**: 
+     - Continuous monitoring and adjustment of gas levels.
+     - Used for long-term storage of fruits and vegetables.
+     - Expensive to operate.
+  2. **Modified Atmosphere Packaging (MAP)**:
+     - Food is sealed in gas-barrier packaging with specific gases (e.g., CO₂, N₂, O₂).
+     - Reduces aerobic microbial growth and enzymatic activity.
+  3. **Vacuum Packaging**:
+     - Air is removed from the package before sealing.
+     - Often grouped with MAP.
+- **Benefits**:
+  - Extends shelf life by inhibiting aerobic bacteria and slowing microbial growth.
+  - CO₂ in high concentrations (20-100%) is particularly effective in extending shelf life.
+- **Limitations**:
+  - Cannot fully control microbial growth by altering redox potential alone.
+  - Additional preservation methods are often needed.
+
+#### **Irradiation**
+- **Purpose**: Use ionizing radiation (γ-rays, X-rays, β-rays) to kill microorganisms and extend shelf life.
+- **Key Radiation Types**:
+  - **β-rays**: Limited penetration; ineffective for food preservation.
+  - **X-rays**: Good penetration but low efficiency.
+  - **γ-rays**: High penetration; most effective for food irradiation.
+- **Common Sources**:
+  - **Cobalt-60 (⁶⁰Co)**: Preferred due to availability and effectiveness.
+  - **Cesium-137 (¹³⁷Cs)**: Less commonly used.
+- **Mechanism**:
+  - Ionizes atoms and molecules in food and microbial cells, inhibiting microbial growth.
+  - Does not make food radioactive.
+- **Benefits**:
+  - Destroys worms, insects, and larvae.
+  - Prevents sprouting in foods like potatoes and onions.
+  - Cold sterilization process (no heat damage to food).
+- **Limitations**:
+  - Cannot destroy toxins or enzymes.
+  - May cause lipid oxidation and protein denaturation at high doses.
+- **Safety**:
+  - Extensively studied for over 40 years; deemed safe by WHO.
+  - Radiolytic products are minimal and not unique to irradiated foods.
+  - Approved in over 30 countries for various foods.
+- **Consumer Resistance**:
+  - Due to misconceptions about radioactivity and safety.
+
+#### **Key Takeaways**
+- **MAP** and **irradiation** are effective methods for extending the shelf life of foods by controlling microbial growth.
+- **MAP** relies on altering the gaseous environment, while **irradiation** uses ionizing radiation.
+- Both methods have been extensively studied and are considered safe, though consumer education is needed to address misconceptions.
