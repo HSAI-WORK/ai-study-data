@@ -1,0 +1,25 @@
+### **Food Preservation Methods Summary**
+
+#### **Modified Atmosphere Packaging (MAP)**
+- **Purpose**: Preserve food by altering the storage environment to extend shelf life and maintain freshness.
+- **Key Methods**:
+  - **Controlled Atmosphere Packaging (CAP)**: Continuous monitoring and adjustment of gas levels; used for long-term storage of fruits and vegetables.
+  - **Modified Atmosphere Packaging (MAP)**: Food is sealed in gas-barrier packaging with specific gases (e.g., CO₂, N₂, O₂) to inhibit microbial growth and slow enzymatic activity.
+  - **Vacuum Packaging**: Air is removed from the package before sealing, reducing aerobic microbial growth.
+- **Benefits**:
+  - Extends shelf life by controlling aerobic bacteria and slowing enzymatic activity.
+  - High CO₂ concentrations inhibit microbial growth by altering cell permeability and pH.
+- **Limitations**: Cannot fully control microbial growth; additional preservation methods are often needed.
+
+#### **Irradiation**
+- **Purpose**: Use ionizing radiation (γ-rays, X-rays, β-rays) to kill microorganisms and extend shelf life.
+- **Key Points**:
+  - **γ-rays**: Most effective for food preservation due to high penetration power; commonly sourced from Cobalt-60 (⁶⁰Co).
+  - **Safety**: Foods do not become radioactive; radiolytic products are minimal and similar to those in heated foods.
+  - **Applications**: Extends shelf life, kills insects/larvae, and prevents sprouting (e.g., potatoes, onions).
+  - **Limitations**: Cannot destroy toxins or enzymes; may cause lipid oxidation and protein denaturation at high doses.
+- **Approval**: Recognized as safe by WHO and used in over 30 countries, but faces consumer resistance due to misconceptions.
+
+#### **Key Takeaways**
+- **MAP**: Effective for controlling microbial growth and extending shelf life, especially for fresh and ready-to-eat foods.
+- **Irradiation**: A safe, non-thermal method for microbial control and shelf-life extension, though it has limitations and public perception challenges.
