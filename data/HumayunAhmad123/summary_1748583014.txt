@@ -1,0 +1,46 @@
+### Food Preservation Methods Summary
+
+#### **Modified Atmosphere Packaging (MAP)**
+- **Purpose**: Preserve food by altering the storage environment to extend shelf life and maintain freshness.
+- **Key Methods**:
+  1. **Controlled Atmosphere Packaging (CAP)**: Continuous monitoring and adjustment of gas levels in storage facilities; used for long-term storage of fruits and vegetables.
+  2. **Modified Atmosphere Packaging (MAP)**: Food is sealed in high gas-barrier packaging, air is removed, and the package is flushed with specific gases (e.g., CO₂, N₂, O₂).
+  3. **Vacuum Packaging**: Air is removed from the package before sealing.
+- **Objectives**:
+  - Control or reduce the growth of undesirable microorganisms.
+  - Retard enzymatic and respiratory activities in fresh foods.
+  - Extend shelf life by inhibiting aerobic bacteria growth.
+- **Key Gases**: CO₂ (20-100%) is commonly used to slow microbial growth by altering cell permeability, reducing pH, and interfering with enzymatic pathways.
+- **Limitations**: Cannot control microbial growth solely by altering the redox potential (Eh); additional preservation methods are needed.
+
+---
+
+#### **Irradiation**
+- **Purpose**: Use ionizing radiation to kill microorganisms, extend shelf life, and prevent sprouting in foods.
+- **Types of Radiation**:
+  - **β-rays**: Limited penetration power; ineffective for food preservation.
+  - **X-rays**: Good penetration but inefficient for food applications.
+  - **γ-rays**: High penetration power; preferred for food irradiation.
+- **Common Sources**:
+  - **Cobalt-60 (⁶⁰Co)**: Artificially induced radioactive isotope; widely used for food irradiation.
+  - **Cesium-137 (¹³⁷Cs)**: Less commonly used due to lower availability.
+- **Mechanism**:
+  - Ionizing radiation strips electrons from atoms/molecules, creating ion pairs that inhibit microbial growth.
+  - Does not make food radioactive.
+- **Benefits**:
+  - Destroys microorganisms, worms, insects, and larvae.
+  - Prevents sprouting in foods like potatoes and onions.
+  - Cold sterilization process; does not increase food temperature.
+- **Limitations**:
+  - Cannot destroy toxins or undesirable enzymes.
+  - May cause lipid oxidation and protein denaturation at higher doses.
+  - Consumer resistance due to misconceptions about radioactivity.
+- **Safety**:
+  - Extensively studied for over 40 years; deemed safe by WHO.
+  - Approved in over 30 countries for meat, fish, vegetables, fruits, and grains.
+
+---
+
+#### **Key Takeaways**
+- **MAP**: Effective for extending shelf life by controlling gas environments but requires supplementary preservation methods.
+- **Irradiation**: Safe and effective for microbial control and shelf-life extension, though it faces consumer resistance due to misinformation.
