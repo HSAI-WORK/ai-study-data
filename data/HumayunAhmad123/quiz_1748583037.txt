@@ -1,0 +1,36 @@
+nts, and the effects of ionizing radiation on biological systems. Here are the questions:
+
+1. **Which of the following best describes the primary goal of Modified Atmosphere Packaging (MAP)?**
+   A. To increase the nutritional value of food  
+   B. To control or reduce the growth of undesirable microorganisms in food*  
+   C. To enhance the flavor of food through chemical reactions  
+   D. To make food more visually appealing  
+   **Explanation:** The primary goal of MAP is to control or reduce the growth of undesirable microorganisms in food, which helps in extending the shelf life of the product.
+
+2. **Which of the following is a key difference between Controlled Atmosphere Packaging (CAP) and Modified Atmosphere Packaging (MAP)?**
+   A. CAP is used for short-term storage, while MAP is used for long-term storage  
+   B. CAP requires continuous monitoring and adjustment of gas levels, while MAP does not*  
+   C. CAP is less expensive to operate than MAP  
+   D. CAP is used for processed foods, while MAP is used for fresh foods  
+   **Explanation:** CAP requires continuous monitoring and adjustment of gas levels, making it more complex and expensive, whereas MAP does not require such continuous control.
+
+3. **Which of the following is a mechanism by which CO2 extends the shelf life of MAP foods?**
+   A. By increasing the pH inside the cells of microorganisms  
+   B. By enhancing the growth of aerobic bacteria  
+   C. By reducing the pH inside the cells of microorganisms*  
+   D. By increasing the oxygen levels in the packaging  
+   **Explanation:** CO2 can dissolve into carbonic acid inside the cells of microorganisms, which reduces the pH and inhibits microbial growth.
+
+4. **Which of the following is a limitation of irradiation in food preservation?**
+   A. It cannot destroy toxins or undesirable enzymes in food*  
+   B. It increases the temperature of the food during treatment  
+   C. It makes food radioactive  
+   D. It is less effective than heat treatment  
+   **Explanation:** Irradiation cannot destroy toxins or undesirable enzymes in food, which is a limitation compared to some other preservation methods.
+
+5. **Which of the following statements is true about the safety of irradiated food?**
+   A. Irradiated food is radioactive and poses a health risk  
+   B. Irradiated food contains unique radiolytic products not found in other foods  
+   C. Irradiated food has been found to be safe by numerous studies and expert reviews*  
+   D. Irradiation is a new and untested method of food preservation  
+   **Explanation:** Numerous studies and expert reviews have found irradiated food to be safe, and it is approved for use in many countries.
