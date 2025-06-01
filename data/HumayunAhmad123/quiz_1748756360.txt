@@ -1,0 +1,60 @@
+Here are five multiple-choice questions based on the provided content, designed to test comprehension of the key concepts:
+
+---
+
+**Question 1:**  
+What is the primary reason for using Modified Atmosphere Packaging (MAP) in food preservation?  
+A. To increase the nutritional value of the food  
+B. To control or reduce the growth of undesirable microorganisms*  
+C. To enhance the flavor of the food  
+D. To make the food more visually appealing  
+
+**Explanation:** The primary objective of MAP is to control or reduce the growth of undesirable microorganisms in food, as well as to retard enzymatic and respiratory activities of fresh foods. This helps extend the shelf life of the product.
+
+---
+
+**Question 2:**  
+Which of the following gases is most effective in extending the shelf life of MAP foods when used in high concentrations?  
+A. Oxygen (O₂)  
+B. Nitrogen (N₂)  
+C. Carbon dioxide (CO₂)*  
+D. Hydrogen (H₂)  
+
+**Explanation:** CO₂, when used in high concentrations (20 to 100%), extends the shelf life of MAP foods by slowing microbial growth through mechanisms such as altering cell permeability and reducing intracellular pH.
+
+---
+
+**Question 3:**  
+Why is Cobalt-60 (60Co) preferred over Cesium-137 (137Cs) for food irradiation?  
+A. It is more effective at killing microorganisms  
+B. It is more easily available*  
+C. It produces fewer radiolytic products  
+D. It does not require regulatory approval  
+
+**Explanation:** 60Co is preferred for food irradiation because it is more easily available compared to 137Cs, despite both being sources of γ-rays.
+
+---
+
+**Question 4:**  
+Which of the following is a limitation of food irradiation?  
+A. It makes food radioactive  
+B. It cannot destroy toxins or undesirable enzymes in food*  
+C. It significantly increases the temperature of the food  
+D. It is ineffective against microorganisms  
+
+**Explanation:** Irradiation cannot destroy toxins or undesirable enzymes in food, which distinguishes it from heat treatment (although heat also cannot destroy heat-stable toxins and enzymes).
+
+---
+
+**Question 5:**  
+What is the main reason for consumer resistance to irradiated foods?  
+A. High cost of irradiated products  
+B. Lack of information and understanding that irradiated foods are not radioactive*  
+C. Irradiated foods have a shorter shelf life  
+D. Irradiated foods are less nutritious  
+
+**Explanation:** Consumer resistance to irradiated foods is primarily due to a lack of information and understanding that irradiated foods are not radioactive and that radiolytic products are not unique to irradiated foods.
+
+--- 
+
+These questions test comprehension of the key concepts by requiring students to apply their understanding of the material rather than simply recalling facts.
