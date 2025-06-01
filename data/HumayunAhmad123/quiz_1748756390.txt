@@ -1,0 +1,52 @@
+### Question 1:
+**What is the primary reason for using Modified Atmosphere Packaging (MAP) in food preservation?**  
+A. To increase the nutritional value of food  
+B. To control or reduce the growth of undesirable microorganisms in food*  
+C. To enhance the flavor of food  
+D. To make food more visually appealing  
+
+**Explanation:** The primary objective of MAP is to control or reduce the growth of undesirable microorganisms in food, as stated on Page 3. This method helps extend the shelf life of food by slowing down microbial growth and enzymatic activity.
+
+---
+
+### Question 2:
+**Which of the following methods involves the continuous monitoring and adjustment of gas levels in a storage facility?**  
+A. Vacuum Packaging  
+B. Modified Atmosphere Packaging (MAP)  
+C. Controlled Atmosphere Packaging (CAP)*  
+D. Irradiation  
+
+**Explanation:** Controlled Atmosphere Packaging (CAP) involves altering the atmosphere in a storage facility and continually monitoring and adjusting gas levels, as described on Page 2. This method is used for long-term storage of fruits and vegetables.
+
+---
+
+### Question 3:
+**What is the main limitation of using β-rays in food irradiation?**  
+A. They are too expensive to produce  
+B. They cannot penetrate inside metal cans*  
+C. They make food radioactive  
+D. They alter the flavor of food  
+
+**Explanation:** β-rays have very little penetration power and cannot penetrate inside metal cans, making them ineffective for food preservation, as mentioned on Page 6.
+
+---
+
+### Question 4:
+**Which of the following is a key mechanism by which CO₂ extends the shelf life of MAP foods?**  
+A. Increasing the pH inside microbial cells  
+B. Enhancing the growth of aerobic bacteria  
+C. Reducing the pH inside microbial cells*  
+D. Promoting enzymatic activity  
+
+**Explanation:** CO₂ extends shelf life by solubilizing into carbonic acid (H₂CO₃) inside microbial cells, reducing the pH and slowing microbial growth, as explained on Page 5.
+
+---
+
+### Question 5:
+**Why has consumer resistance to irradiated foods been high, despite scientific evidence of safety?**  
+A. Irradiated foods are more expensive  
+B. Consumers believe irradiated foods become radioactive*  
+C. Irradiated foods lose their nutritional value  
+D. Irradiated foods have an unpleasant texture  
+
+**Explanation:** Consumer resistance to irradiated foods is mainly due to a lack of understanding that irradiated foods do not become radioactive, as clarified on Page 10. This misconception has led to skepticism despite extensive safety studies.
