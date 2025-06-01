@@ -1,0 +1,52 @@
+### Question 1:  
+**What is the primary reason for using Modified Atmosphere Packaging (MAP) in food preservation?**  
+A. To increase the nutritional value of food  
+B. To control or reduce the growth of undesirable microorganisms*  
+C. To enhance the flavor of food  
+D. To reduce the cost of packaging  
+
+**Explanation:** The primary objective of MAP is to control or reduce the growth of undesirable microorganisms in food, as stated on Page 3. This method helps extend the shelf life of food by altering the gaseous environment.  
+
+---
+
+### Question 2:  
+**Which of the following is a key difference between Controlled Atmosphere Packaging (CAP) and Modified Atmosphere Packaging (MAP)?**  
+A. CAP is used for short-term storage, while MAP is for long-term storage.  
+B. CAP requires continuous monitoring and adjustment of gas levels, while MAP does not.*  
+C. CAP uses only nitrogen gas, while MAP uses a combination of gases.  
+D. CAP is less expensive to operate than MAP.  
+
+**Explanation:** CAP involves continuous monitoring and adjustment of gas levels, making it more expensive and complex, while MAP does not require such a high degree of control, as explained on Pages 2 and 3.  
+
+---
+
+### Question 3:  
+**Why is CO2 commonly used in Modified Atmosphere Packaging (MAP)?**  
+A. It enhances the flavor of the food.  
+B. It increases the pH inside microbial cells, promoting growth.  
+C. It penetrates cells and interferes with microbial enzymatic pathways, slowing growth.*  
+D. It removes moisture from the food.  
+
+**Explanation:** CO2 is used in MAP because it penetrates microbial cells, alters cell permeability, reduces internal pH, and interferes with enzymatic pathways, thereby slowing microbial growth, as described on Page 5.  
+
+---
+
+### Question 4:  
+**What is a significant advantage of using γ-rays over β-rays in food irradiation?**  
+A. γ-rays are less expensive to produce.  
+B. γ-rays have high penetration power, making them more effective for food preservation.*  
+C. γ-rays do not produce any ion pairs in food.  
+D. γ-rays do not affect the flavor of food.  
+
+**Explanation:** γ-rays are preferred for food irradiation because of their high penetration power, which allows them to effectively target microorganisms inside food, unlike β-rays, which have limited penetration, as stated on Page 6.  
+
+---
+
+### Question 5:  
+**Why do irradiated foods not become radioactive?**  
+A. The radiation used is too weak to cause radioactivity in food.  
+B. The atoms and molecules in food form ion pairs, but the food itself does not become radioactive.*  
+C. The radiation is absorbed by the packaging material, not the food.  
+D. The process is conducted at very low temperatures, preventing radioactivity.  
+
+**Explanation:** Irradiated foods do not become radioactive because the radiation causes the formation of ion pairs in the food and microbial cells, but it does not make the food itself radioactive, as explained on Page 7.
