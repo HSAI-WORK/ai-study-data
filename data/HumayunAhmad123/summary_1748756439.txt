@@ -1,0 +1,39 @@
+### Summary of Food Preservation Methods
+
+#### **1. Modified Atmosphere Packaging (MAP)**
+- **Purpose**: Extend shelf life by altering the storage environment to control microbial growth and slow enzymatic/respiratory activities.
+- **Methods**:
+  - **Controlled Atmosphere Packaging (CAP)**: Continuous monitoring and adjustment of gas levels; expensive, used for long-term storage of fruits/vegetables.
+  - **Modified Atmosphere Packaging (MAP)**: Food is sealed in gas-barrier packaging, air is replaced with specific gases (e.g., CO₂, N₂, O₂), and sealed. Combines vacuum packaging and gas-flush methods.
+  - **Vacuum Packaging**: Air is removed, and the package is sealed.
+- **Effects**:
+  - Reduces growth of aerobic microorganisms (molds, yeasts, bacteria).
+  - CO₂ (20-100%) extends shelf life by altering cell permeability, reducing pH, and disrupting enzymatic pathways.
+
+#### **2. Irradiation**
+- **Purpose**: Kill microorganisms, insects, and larvae; prevent sprouting; extend shelf life.
+- **Types of Radiation**:
+  - **β-rays**: Low penetration power, ineffective for food preservation.
+  - **X-rays**: Good penetration but inefficient for food application.
+  - **γ-rays**: High penetration power; preferred for food irradiation.
+- **Sources**:
+  - **Cobalt-60 (⁶⁰Co)**: Commonly used; non-radioactive after use.
+  - **Cesium-137 (¹³⁷Cs)**: Less available than ⁶⁰Co.
+- **Mechanism**:
+  - Ionization disrupts microbial DNA and cell functions.
+  - Does not make food radioactive; radiolytic products are minimal and non-toxic.
+- **Benefits**:
+  - Cold sterilization (no heat damage).
+  - Destroys pathogens, insects, and larvae; prevents sprouting.
+- **Limitations**:
+  - Cannot destroy toxins or enzymes.
+  - May cause lipid oxidation and protein denaturation at high doses.
+- **Safety**:
+  - Extensively studied (>40 years); deemed safe by WHO.
+  - Approved in over 30 countries for meat, fish, vegetables, fruits, and grains.
+  - Consumer resistance due to misconceptions about radioactivity.
+
+#### **Key Takeaways**
+- **MAP**: Controls microbial growth and extends shelf life by altering gas composition in packaging.
+- **Irradiation**: A safe, cold sterilization method that kills microorganisms and pests without making food radioactive.
+- Both methods are effective but require additional techniques for comprehensive food preservation.
