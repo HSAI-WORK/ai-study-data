@@ -1,0 +1,61 @@
+ect effects on biological systems. The direct effects occur when the radiation directly interacts with the DNA or other critical molecules in the cell, causing damage. The indirect effects occur when the radiation interacts with water molecules in the cell, producing free radicals that can then damage the DNA or other critical molecules. Both types of effects can lead to cell death or mutation, which is why ionizing radiation is effective in killing microorganisms and preventing the growth of foodborne pathogens.
+
+---
+
+**Question 1:**
+Which of the following is a key objective of Modified Atmosphere Packaging (MAP)?
+A. To increase the growth of aerobic bacteria
+B. To reduce the growth of undesirable microorganisms
+C. To enhance the flavor of the food
+D. To increase the oxygen content in the food
+
+*Answer: B. To reduce the growth of undesirable microorganisms*
+Explanation: The primary objective of MAP is to control or reduce the growth of undesirable microorganisms in food, which helps in extending the shelf life of the product.
+
+---
+
+**Question 2:**
+Which of the following is NOT a method of altering the atmosphere in food preservation?
+A. Controlled Atmosphere Packaging (CAP)
+B. Modified Atmosphere Packaging (MAP)
+C. Vacuum packaging
+D. Irradiation
+
+*Answer: D. Irradiation*
+Explanation: Irradiation is a method of food preservation that uses ionizing radiation to kill microorganisms, but it does not involve altering the atmosphere in the food.
+
+---
+
+**Question 3:**
+What is the primary reason for using CO2 in Modified Atmosphere Packaging (MAP)?
+A. To increase the oxygen content in the food
+B. To enhance the flavor of the food
+C. To extend the shelf life of the food
+D. To increase the growth of aerobic bacteria
+
+*Answer: C. To extend the shelf life of the food*
+Explanation: CO2 is used in MAP to extend the shelf life of food by inhibiting the growth of microorganisms through mechanisms such as altering cell permeability and reducing pH inside the cells.
+
+---
+
+**Question 4:**
+Which of the following is a characteristic of γ-rays used in food irradiation?
+A. Low penetration power
+B. High penetration power
+C. Inability to kill microorganisms
+D. Low efficiency in food preservation
+
+*Answer: B. High penetration power*
+Explanation: γ-rays have high penetration power, which makes them effective in killing microorganisms inside food products.
+
+---
+
+**Question 5:**
+What is a common misconception about irradiated food?
+A. It is radioactive
+B. It has a shorter shelf life
+C. It is less nutritious
+D. It is more expensive
+
+*Answer: A. It is radioactive*
+Explanation: A common misconception is that irradiated food is radioactive, but in reality, the process does not make the food radioactive. The radiation used in food irradiation does not leave any radioactive residue in the food.
