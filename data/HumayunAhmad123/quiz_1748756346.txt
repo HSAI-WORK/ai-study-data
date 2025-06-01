@@ -1,0 +1,60 @@
+Here are five multiple-choice questions based on the provided content, designed to test comprehension of the key concepts:
+
+---
+
+### **Question 1:**
+What is the primary difference between Controlled Atmosphere Packaging (CAP) and Modified Atmosphere Packaging (MAP)?  
+A. CAP is used for short-term storage, while MAP is used for long-term storage.  
+B. CAP involves continuous monitoring and adjustment of gas levels, while MAP does not.*  
+C. CAP is less expensive to operate than MAP.  
+D. CAP uses vacuum sealing, while MAP uses gas-flush packaging.  
+
+**Explanation:** CAP requires continuous monitoring and adjustment of gas levels, making it more complex and expensive, while MAP involves sealing food in a gas-flushed package without ongoing control.  
+
+---
+
+### **Question 2:**  
+Which of the following gases is most commonly used in Modified Atmosphere Packaging (MAP) to extend the shelf life of foods?  
+A. Oxygen (O₂)  
+B. Nitrogen (N₂)  
+C. Carbon dioxide (CO₂)*  
+D. Hydrogen (H₂)  
+
+**Explanation:** CO₂ is commonly used in MAP because it inhibits microbial growth by altering cell permeability and reducing intracellular pH.  
+
+---
+
+### **Question 3:**  
+Why is γ-ray irradiation preferred over β-ray and X-ray irradiation for food preservation?  
+A. γ-rays are less expensive to produce than β-rays and X-rays.  
+B. γ-rays have higher penetration power and are more effective.*  
+C. γ-rays do not produce any radiolytic products in food.  
+D. γ-rays are more efficient at focusing on specific areas of food.  
+
+**Explanation:** γ-rays are preferred because they have high penetration power, making them effective at killing microorganisms throughout the food.  
+
+---
+
+### **Question 4:**  
+Which of the following statements is true about food irradiation?  
+A. Irradiated foods become radioactive and unsafe for consumption.  
+B. Irradiation can destroy toxins and undesirable enzymes in food.  
+C. Irradiation is a cold sterilization process that does not increase food temperature.*  
+D. Irradiation is not approved for use in any country due to safety concerns.  
+
+**Explanation:** Irradiation is a cold sterilization process that does not increase food temperature, making it different from heat-based preservation methods.  
+
+---
+
+### **Question 5:**  
+What is the primary reason for consumer resistance to irradiated foods?  
+A. Irradiated foods have a significantly altered taste and texture.  
+B. Consumers believe irradiated foods are radioactive and unsafe.*  
+C. Irradiated foods are more expensive than non-irradiated foods.  
+D. Irradiation destroys essential nutrients in food.  
+
+**Explanation:** Consumer resistance is mainly due to a lack of understanding that irradiated foods are not radioactive and are safe for consumption.  
+
+--- 
+
+These questions test comprehension of the material by requiring students to analyze and apply the concepts rather than simply recall facts.
